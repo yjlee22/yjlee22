@@ -17,6 +17,14 @@ Hi, I'm Youngjoon Lee, a passionate self-taught AI research scientist from South
     - Semi-Supervised Learning
     - Self-Supervised Learning
 
+### ⚡ Skills
+- **Languages & Frameworks**
+    - Python, C/C++
+    - Pytorch, Tensorflow
+- **Tools**
+    - Git, Docker
+
+
 
 <!--
 **yjlee22/yjlee22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
