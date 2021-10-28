@@ -1,4 +1,5 @@
-### Hi there! 👋 I'm a AI Research Scientist
+### Hi there! 👋 I'm Youngjoon Lee
+Hi, I'm Youngjoon Lee, a passionate self-taught AI research scientist from South Korea.
 
 ### 🔭 Education
 - **UNIST (Ulsan National Institute of Science and Technology)**
