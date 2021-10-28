@@ -1,4 +1,4 @@
-### Hi there! 👋 I'm Youngjoon Lee
+### Hi there! 👋 I'm Youngjoon
 Hi, I'm Youngjoon Lee, a passionate self-taught AI research scientist from South Korea.
 
 ### 🔭 Education
