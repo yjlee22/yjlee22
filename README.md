@@ -9,7 +9,7 @@ Hi, I'm Youngjoon Lee, a passionate self-taught AI research scientist from South
     - Thesis: Statistical Heterogeneity-aware Federated Approach and Application
 
 ### 🌱 Research Interest
-- **Distributed Machine learning**
+- **Distributed Machine Learning**
     - Federated Learning
     - Split Learning
 - **Learning Theory**
