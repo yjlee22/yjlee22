@@ -22,7 +22,7 @@ Hi, I'm Youngjoon Lee, a passionate self-taught AI research scientist from South
     - Python, C/C++
     - Pytorch, Tensorflow
 - **Tools**
-    - Git, Docker
+    - Git, Docker, Tmux
 
 
 
