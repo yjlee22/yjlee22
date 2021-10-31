@@ -1,5 +1,11 @@
 ### Hi there! 👋 I'm Youngjoon
 Hi, I'm Youngjoon Lee, a passionate self-taught AI research scientist from South Korea.
+<a href="https://github.com/yjlee22" target="_blank">
+<img src=https://simpleicons.org/icons/github.svg alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://linkedin.com/in/yjlee22" target="_blank">
+<img src=https://simpleicons.org/icons/linkedin.svg alt=linkedin style="margin-bottom: 5px;" />
+</a>
 
 ### 🔭 Education
 - **UNIST (Ulsan National Institute of Science and Technology)**
